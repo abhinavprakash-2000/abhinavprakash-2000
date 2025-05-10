@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhinav Prakash</h1>
 <h3 align="center">A passionate problem-solver from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, Django, Node, ExpressJS**
-
-- 💬 Ask me about **React, Algorithms**
+- 🌱 Results-driven engineer passionate about building scalable backend solutions and data infrastructure that drive business value. Currently focused on engineering at Astrotalk, leveraging technical expertise to develop innovative solutions
 
 - 📫 How to reach me **abhinavprakash.job@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sk19mZ449ooKN9AI55-mVB_rUKuCEWmc/view](https://drive.google.com/file/d/1sk19mZ449ooKN9AI55-mVB_rUKuCEWmc/view)
-
-- ⚡ Fun fact **You have to work hard before you start to enjoy it.**
+- 📄 Know about my experiences https://drive.google.com/file/d/1wXDcH4IGhq84eFEFWasPzkLzTq4AaUIm/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
